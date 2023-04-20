@@ -3,10 +3,8 @@ Warehouse Monitoring System is a hardware project that we as a team designed for
 
 ### Problem Statement  
 The aim of this project is to design a system that has the ability to act as a low cost wireless sensor which detects the temperature and humidity in warehouses, the system should constantly keep a track of the humidity and temperature, and alert the owners in case the values cross a certain threshold to avoid the spoilage of food grains.
-
-
-
-
+  
+  
 ### Objectives
 *	To design a model that can consistently and accurately detect fluctuations in temperature and humidity.
 *	To display the current humidity and temperature levels to the users.
