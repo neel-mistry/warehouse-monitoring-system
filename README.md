@@ -1,5 +1,5 @@
 # warehouse-monitoring-system
-Warehouse Monitoring System is a hardware project that we as a team designed for our Sem 6 Sensor Lab Project..
+Warehouse Monitoring System is a hardware project that we as a team designed for our Sem 6 Sensor Lab Project.
 
 ### Problem Statement  
 The aim of this project is to design a system that has the ability to act as a low cost wireless sensor which detects the temperature and humidity in warehouses, the system should constantly keep a track of the humidity and temperature, and alert the owners in case the values cross a certain threshold to avoid the spoilage of food grains.
