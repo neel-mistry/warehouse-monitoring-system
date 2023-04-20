@@ -13,6 +13,18 @@ The objectives of this project are:
 Proposed Solution
 A system is necessary to monitor the temperature and humidity of the warehouse continuously. If the temperature or humidity exceeds a specific threshold, the system will alert the warehouse supervisor with the help of a buzzer and LED lights. Appropriate measures can then be taken to prevent damage to grains.
 
+The following components were used in the making of this project:
+1. 	Arduino Uno
+2.	Bread board
+3.	HC-05 Bluetooth Module
+4.	JHD162A LCD
+5.	Jumpers Wires
+6.	DHT 11 Sensor
+7.	Buzzer
+8.	3mm LED
+
+
+
 View Project Working [here](/SL-working-video.mp4)
 
 View [Project Report](/Project%20Report.pdf)
