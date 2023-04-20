@@ -11,16 +11,12 @@ The aim of this project is to design a system that has the ability to act as a l
 **The objectives of this project are:**
 
 *	To design a model that can consistently and accurately detect fluctuations in temperature and humidity.
-
 *	To display the current humidity and temperature levels to the users.
-
 *	To alert stakeholders in case the humidity and temperature cross a certain threshold.
-
 *	To prevent grains and food items from spoiling due to changes in moisture levels.
 
 
-**Proposed Solution**
-
+**Proposed Solution**  
 A system is necessary to monitor the temperature and humidity of the warehouse continuously. If the temperature or humidity exceeds a specific threshold, the system will alert the warehouse supervisor with the help of a buzzer and LED lights. Appropriate measures can then be taken to prevent damage to grains.
 
 
@@ -37,6 +33,5 @@ The following components were used in the making of this project:
 
 
 
-View Project Working [here](/SL-working-video.mp4)
-
+View Project Working [here](/SL-working-video.mp4)   
 View [Project Report](/Project%20Report.pdf)
