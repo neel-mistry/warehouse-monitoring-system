@@ -14,4 +14,5 @@ Proposed Solution
 A system is necessary to monitor the temperature and humidity of the warehouse continuously. If the temperature or humidity exceeds a specific threshold, the system will alert the warehouse supervisor with the help of a buzzer and LED lights. Appropriate measures can then be taken to prevent damage to grains.
 
 View Project Working [here](/SL-working-video.mp4)
+
 View [Project Report](/Project%20Report.pdf)
